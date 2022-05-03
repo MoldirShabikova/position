@@ -1,0 +1,16 @@
+#rect {
+  width: 250px;
+  height: 250px;
+  background-color: aqua;
+  margin: 100px auto;
+  position: relative;
+  background-image: url(https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg);
+}
+.title {
+  background-color: darkblue;
+  color: white;
+  padding: 5px;
+  position: absolute;
+  bottom: 10px;
+  left: -20px;
+}
